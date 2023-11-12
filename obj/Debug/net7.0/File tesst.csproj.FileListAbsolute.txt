@@ -1,0 +1,14 @@
+D:\C#\File tesst\bin\Debug\net7.0\File tesst.exe
+D:\C#\File tesst\bin\Debug\net7.0\File tesst.deps.json
+D:\C#\File tesst\bin\Debug\net7.0\File tesst.runtimeconfig.json
+D:\C#\File tesst\bin\Debug\net7.0\File tesst.dll
+D:\C#\File tesst\bin\Debug\net7.0\File tesst.pdb
+D:\C#\File tesst\obj\Debug\net7.0\File tesst.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\File tesst\obj\Debug\net7.0\File tesst.AssemblyInfoInputs.cache
+D:\C#\File tesst\obj\Debug\net7.0\File tesst.AssemblyInfo.cs
+D:\C#\File tesst\obj\Debug\net7.0\File tesst.csproj.CoreCompileInputs.cache
+D:\C#\File tesst\obj\Debug\net7.0\File tesst.dll
+D:\C#\File tesst\obj\Debug\net7.0\refint\File tesst.dll
+D:\C#\File tesst\obj\Debug\net7.0\File tesst.pdb
+D:\C#\File tesst\obj\Debug\net7.0\File tesst.genruntimeconfig.cache
+D:\C#\File tesst\obj\Debug\net7.0\ref\File tesst.dll
