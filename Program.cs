@@ -1,4 +1,4 @@
-﻿    using AVL_Tree;
+﻿using AVL_Tree;
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 CSinhVien sv1 = new CSinhVien("1", "1A1", "Chau Nguyen Truong An", "180 Cao Lo", DateTime.Today, true);
 CSinhVien sv2 = new CSinhVien("2", "1A2", "Huynh To Tran", "180 Cao Lo", DateTime.Today, false);
